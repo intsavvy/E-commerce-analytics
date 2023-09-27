@@ -1,7 +1,7 @@
 # E-commerce-analytics
 
 This is all about the course project using SQL commands to analyze about the company selling products online.
-The following questions has been answered using SQL using MYSQL Workbench platform.
+The following questions has been answered using MYSQL Workbench platform.
 
 /*
 1) First, I’d like to show our volume growth. Can you pull overall session and order volume, trended by quarter 
